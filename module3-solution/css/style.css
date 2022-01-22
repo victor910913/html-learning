@@ -1,0 +1,66 @@
+body {
+	Padding
+}
+
+.navbar-header {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.navbar {
+	background-color: darkgray;
+	outline-color: solid black;
+	outline-width: 2px;
+	padding: 20px;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #111111;
+}
+
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+}
+
+.navbar-header h1{
+	color: #111111;
+	float: left;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.navbar-header a:hover, .navbar-header a:focus {
+	text-decoration: none;
+}
+
+#title-container {
+	margin: 0px 20px 0px 20px;
+}
+
+#main-container {
+	height: 2000px;
+	background-color: darkgray;
+	margin: 0px 20px 0px 20px;
+}
+
+#nav-list {
+  background-color: white;
+}
+#nav-list li {
+  color: #111111;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.navbar-nav {
+	margin: 0px;
+    padding: 10px 10px;
+}
+
+.navbar-collapse {
+	padding: 0px;
+}
+
+}
